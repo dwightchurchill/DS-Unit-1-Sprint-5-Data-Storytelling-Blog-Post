@@ -5,6 +5,8 @@ Contents
 - [Milestones](#milestones)
 - [Examples](#examples)
 
+Blog post link: <https://dwightchurchill.github.io/2019-05-23-first-post/>
+
 ## Deliverables
 
 _The project has five parts. For each part, we've listed what's required to pass the Sprint Challenge, and what's recommended but not required._
